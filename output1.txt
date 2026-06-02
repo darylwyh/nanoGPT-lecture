@@ -1,0 +1,88 @@
+python3 bigramv2.py
+10.788929 M parameters
+step 0: train loss 4.2849, val loss 4.2823
+step 500: train loss 2.0015, val loss 2.0897
+step 1000: train loss 1.5971, val loss 1.7761
+step 1500: train loss 1.4391, val loss 1.6405
+step 2000: train loss 1.3408, val loss 1.5680
+step 2500: train loss 1.2794, val loss 1.5311
+step 3000: train loss 1.2261, val loss 1.5021
+step 3500: train loss 1.1821, val loss 1.4831
+step 4000: train loss 1.1458, val loss 1.4842
+step 4500: train loss 1.1081, val loss 1.4725
+step 4999: train loss 1.0753, val loss 1.4817
+
+Of the heart o'er the qemer wife.
+
+BUCKINGHAM:
+And for his sail words fortuness.
+
+CATESBY:
+The office hath told thou pardon, peace patiences.
+
+BONGHOM:
+And then we are good fortune's love,
+Thou dost kill this army patience
+That gat or his noble chants, despairs he sought
+
+DINGS:
+My lord; and yet gone see him such; therefore less post,
+As I will not believe his lighting.
+
+SIR STOfy:
+Why, this tyranner, to be not at light:
+It contented, by wife Keen have.
+It stirs, therefore, word thou didst can me:
+Thou know'st, thou camest me brothing the Miles
+And pray sir, then doubt, else mine woreful though?
+
+QUEEN MARGARET:
+Ay, boy: person you, but we our state,
+By Rhe is murder fellow, eurle you are
+Of their pluck'd your ple, they save leavest.
+
+GLOUCESTER:
+Are call'd, no late you, obedience, sir;
+Releo it: if you had left you.
+
+KING EDWARD IV:
+Then but yield it there nor shall move be true.
+
+LADY GREY:
+I think you den your will done but lies.
+
+KING EDWARD IV:
+O Warwick, the end of good wolves hear!
+
+QUEEN ELIZABETH:
+What slysrews I should not be being derised.
+
+YORK:
+I shall in Polixenes, for fortune thy sharp,
+I prithee Clarence. Lead you temper'd,
+And forth I law of dear bests delight,
+And aught I forget the daphter, anon
+Lesse call'd the nurse.
+
+DUKE VINCENTIO:
+Why had coward'st is court in our house,
+Such for fault with herm again presence,
+Yea, persuancely to give an and her bury dream!
+O cousin, keep her cousin Henry!
+
+DUKE VINCENTIO:
+Vitharity!
+Where rather, be Claudio; the king shall fled;
+That strike age buts on the trorning bold.
+if you happy meet in both
+Than you will seeds. Doubt an arl this whilst.
+
+DUKE VINCENTIO:
+Peace for sake here we grieve the glass,
+For statutes, wrong, the depitions insuit,
+To her I, on her and saved, butg upon honesty:
+Please is adventUCorisly, herself, pernick
+Cut off suck to that evice make my ealth
+Hock'st to like his power thanks. Please you well:
+No woes just then state hard forsweet grief,
+I'll bring your love, fefold thus for Dorse
